@@ -1,0 +1,7 @@
+c:\users\nadav\documents\visual studio 2010\Projects\BookLibrary\BookLib\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nadav\documents\visual studio 2010\Projects\BookLibrary\BookLib\bin\Debug\BookLib.dll
+c:\users\nadav\documents\visual studio 2010\Projects\BookLibrary\BookLib\bin\Debug\BookLib.pdb
+c:\users\nadav\documents\visual studio 2010\Projects\BookLibrary\BookLib\obj\Debug\BookLib.dll
+c:\users\nadav\documents\visual studio 2010\Projects\BookLibrary\BookLib\obj\Debug\BookLib.pdb
+c:\users\nadav\documents\visual studio 2010\Projects\BookLibrary\BookLib\bin\Debug\BookLibServices.dll
+c:\users\nadav\documents\visual studio 2010\Projects\BookLibrary\BookLib\bin\Debug\BookLibServices.pdb
