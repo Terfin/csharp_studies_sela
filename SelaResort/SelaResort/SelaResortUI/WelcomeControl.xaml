@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="SelaResortUI.WelcomeControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="418" d:DesignWidth="768">
+    <Grid Background="Transparent">
+        <TextBlock HorizontalAlignment="Left" Height="82" Margin="226,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="497" FontSize="36" FontFamily="AngsanaUPC"><Run FlowDirection="RightToLeft" Language="he-il" Text="Welcome to the Resort setup wizard"/></TextBlock>
+        <Image HorizontalAlignment="Left" Height="418" VerticalAlignment="Top" Width="270" Source="nature.jpg" />
+        <TextBlock HorizontalAlignment="Left" Height="69" Margin="275,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" FontSize="24" FontFamily="AngsanaUPC" Text="Since this is the first time the program launches, the wizard will help you configure your resort."/>
+        <TextBlock HorizontalAlignment="Left" Height="100" Margin="275,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" FontSize="24" FontFamily="AngsanaUPC"><Run Text="In the next screens you will be asked to set your own username and password, then add employees "/><Run Text="and rooms"/><Span><Run FlowDirection="RightToLeft" Language="he-il" Text=" "/></Span><Span><Run Text=" "/></Span><Span><Run FlowDirection="RightToLeft" Language="he-il" Text="as needed"/></Span><Run Text="."/></TextBlock>
+    </Grid>
+</UserControl>

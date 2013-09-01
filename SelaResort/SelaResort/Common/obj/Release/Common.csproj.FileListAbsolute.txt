@@ -1,0 +1,7 @@
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Release\Common.dll.config
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Release\Common.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Release\Common.pdb
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Release\EntityFramework.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Release\EntityFramework.xml
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\obj\Release\Common.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\obj\Release\Common.pdb

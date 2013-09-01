@@ -1,0 +1,24 @@
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\Common\bin\Debug\Common.dll
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\Common\bin\Debug\Common.pdb
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\Common\obj\Debug\Common.dll
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\Common\obj\Debug\Common.pdb
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\Common\bin\Debug\Common.dll.config
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\Common\bin\Debug\EntityFramework.dll
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\Common\bin\Debug\EntityFramework.xml
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\Common\bin\Debug\Common.dll.config
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\Common\bin\Debug\Common.dll
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\Common\bin\Debug\Common.pdb
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\Common\bin\Debug\EntityFramework.dll
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\Common\bin\Debug\EntityFramework.xml
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\Common\obj\Debug\Common.dll
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\Common\obj\Debug\Common.pdb
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Debug\Common.dll.config
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Debug\Common.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Debug\Common.pdb
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Debug\EntityFramework.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\bin\Debug\EntityFramework.xml
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\obj\Debug\Common.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\Common\obj\Debug\Common.pdb

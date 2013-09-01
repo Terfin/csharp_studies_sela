@@ -1,0 +1,36 @@
+c:\users\nadav\documents\visual studio 2012\Projects\SelaResort\SelaResortBL\obj\Debug\SelaResortBL.csprojResolveAssemblyReference.cache
+c:\users\nadav\documents\visual studio 2012\Projects\SelaResort\SelaResortBL\bin\Debug\SelaResortBL.dll
+c:\users\nadav\documents\visual studio 2012\Projects\SelaResort\SelaResortBL\bin\Debug\SelaResortBL.pdb
+c:\users\nadav\documents\visual studio 2012\Projects\SelaResort\SelaResortBL\bin\Debug\EntityFramework.dll
+c:\users\nadav\documents\visual studio 2012\Projects\SelaResort\SelaResortBL\bin\Debug\EntityFramework.xml
+c:\users\nadav\documents\visual studio 2012\Projects\SelaResort\SelaResortBL\obj\Debug\SelaResortBL.dll
+c:\users\nadav\documents\visual studio 2012\Projects\SelaResort\SelaResortBL\obj\Debug\SelaResortBL.pdb
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\SelaResortBL\bin\Debug\Common.dll
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\SelaResortBL\bin\Debug\Common.pdb
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\SelaResortBL\bin\Debug\SelaResortBL.dll.config
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\SelaResortBL\bin\Debug\SelaResort.DAL.dll
+C:\Users\nadav\Documents\Visual Studio 2012\Projects\SelaResort\SelaResortBL\bin\Debug\SelaResort.DAL.pdb
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\bin\Debug\SelaResortBL.dll.config
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\bin\Debug\SelaResortBL.dll
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\bin\Debug\SelaResortBL.pdb
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\bin\Debug\Common.dll
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\bin\Debug\SelaResort.DAL.dll
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\bin\Debug\EntityFramework.dll
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\bin\Debug\Common.pdb
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\bin\Debug\SelaResort.DAL.pdb
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\bin\Debug\EntityFramework.xml
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\obj\Debug\SelaResortBL.csprojResolveAssemblyReference.cache
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\obj\Debug\SelaResortBL.dll
+C:\Users\nadav\Downloads\SelaResort2\SelaResort\SelaResortBL\obj\Debug\SelaResortBL.pdb
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\bin\Debug\SelaResortBL.dll.config
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\bin\Debug\SelaResortBL.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\bin\Debug\SelaResortBL.pdb
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\bin\Debug\Common.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\bin\Debug\SelaResort.DAL.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\bin\Debug\EntityFramework.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\bin\Debug\Common.pdb
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\bin\Debug\SelaResort.DAL.pdb
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\bin\Debug\EntityFramework.xml
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\obj\Debug\SelaResortBL.csprojResolveAssemblyReference.cache
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\obj\Debug\SelaResortBL.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResortBL\obj\Debug\SelaResortBL.pdb

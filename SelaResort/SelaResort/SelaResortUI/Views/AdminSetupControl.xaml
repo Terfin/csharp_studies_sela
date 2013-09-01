@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="SelaResortUI.Views.AdminSetupControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="418" d:DesignWidth="768">
+    <Grid>
+        <TextBox x:Name="emailBox" Margin="318,121,213,257" TextWrapping="Wrap" VerticalContentAlignment="Center" Text="{Binding Email, Mode=TwoWay}"/>
+        <Label Content="Email Address" HorizontalAlignment="Left" Margin="177,121,0,0" VerticalAlignment="Top" Height="40" Width="136" FontFamily="Miriam" FontSize="13" FontWeight="Bold" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="emailCnfrmBox" Margin="318,166,213,212" TextWrapping="Wrap" VerticalContentAlignment="Center" Text="{Binding ConfirmEmail, Mode=TwoWay}"/>
+        <Label Content="Confirm Email Address" HorizontalAlignment="Left" Margin="177,166,0,0" VerticalAlignment="Top" Height="40" Width="136" FontFamily="Miriam" FontSize="13" FontWeight="Bold" VerticalContentAlignment="Center"/>
+        <PasswordBox x:Name="passwdBox" Height="40" Margin="318,211,213,0" VerticalAlignment="Top" VerticalContentAlignment="Center" />
+        <PasswordBox x:Name="passwdcnfrmBox" Margin="318,256,213,122" VerticalContentAlignment="Center" />
+        <Label Content="Password" HorizontalAlignment="Left" Margin="177,211,0,0" VerticalAlignment="Top" Height="40" Width="136" FontFamily="Miriam" FontSize="13" FontWeight="Bold" VerticalContentAlignment="Center"/>
+        <Label Content="Confirm Password" HorizontalAlignment="Left" Margin="177,256,0,0" VerticalAlignment="Top" Height="40" Width="136" FontFamily="Miriam" FontSize="13" FontWeight="Bold" VerticalContentAlignment="Center"/>
+        <TextBlock x:Name="errBlock" HorizontalAlignment="Left" Height="77" Margin="177,316,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="378" FontSize="14" FontFamily="Miriam" Foreground="Red" TextAlignment="Center"/>
+    </Grid>
+</UserControl>

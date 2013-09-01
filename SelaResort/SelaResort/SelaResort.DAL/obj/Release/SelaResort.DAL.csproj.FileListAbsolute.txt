@@ -1,0 +1,10 @@
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\bin\Release\SelaResort.DAL.dll.config
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\bin\Release\SelaResort.DAL.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\bin\Release\SelaResort.DAL.pdb
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\bin\Release\Common.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\bin\Release\EntityFramework.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\bin\Release\Common.pdb
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\bin\Release\EntityFramework.xml
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\obj\Release\SelaResort.DAL.csprojResolveAssemblyReference.cache
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\obj\Release\SelaResort.DAL.dll
+C:\Users\nadav\Downloads\SelaResort\SelaResort\SelaResort.DAL\obj\Release\SelaResort.DAL.pdb
